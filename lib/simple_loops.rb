@@ -28,4 +28,5 @@ def return_string_array(array)
   while count < array.length do
     new_array.push(array[count])
   end
+  new_array
 end
